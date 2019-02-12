@@ -1,6 +1,6 @@
-# k-d Tree JavaScript Library
+# k-d Tree TypeScript Library
 
-A basic but super fast JavaScript implementation of the k-dimensional tree data structure.
+A basic but super fast TypeScript implementation of the k-dimensional tree data structure.
 
 As of version 1.01, the library is defined as an UMD module (based on https://github.com/umdjs/umd/blob/master/commonjsStrict.js).
 
